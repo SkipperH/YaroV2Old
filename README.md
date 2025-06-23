@@ -1,5 +1,6 @@
-# 🌍 Yaro – Prototype Iteratie 1
+# 🌍 Yaro – Respectvol Reizen met Lokale Verhalen, Iteratie 1
 Yaro is een interactief platform dat reizigers actuele, locatiegebonden meldingen toont via een wereldkaart. Deze eerste iteratie richt zich op het verkennen van de basisfunctionaliteiten en het vormgeven van een eerste visuele ervaring die aansluit bij de behoeften van bewuste reizigers.
+
 
 ## ✨ Features
 ### 🗺️ Interactieve Kaart
@@ -67,7 +68,39 @@ world-view-news/
 ├── tsconfig.node.json
 └── vite.config.ts                # Vite bundler configuratie
 ```
+## 🚀 Installatie
+### Vereisten
+- Node.js (versie 18 of hoger)
+- npm, yarn, of bun package manager
+### Stappen
+**Clone de repository**
 
+```bash
+git clone https://github.com/your-username/local-story-explorer.git
+cd local-story-explorer
+```
+**Installeer dependencies**
+```bash
+npm install
+# of
+yarn install
+# of
+bun install
+```
+
+**Start de development server**
+```bash
+npm run dev
+# of
+yarn dev
+# of
+bun dev
+```
+**Open de applicatie**
+```bash
+Ga naar http://localhost:5173 in je browser
+De applicatie laadt standaard met een overzicht van alle verhalen
+```
 ## 📌 Andere iteraties:
 Volgende iteraties van het project vind je hier:
 ### Iteratie 2:
