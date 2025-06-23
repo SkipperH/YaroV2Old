@@ -101,6 +101,9 @@ bun dev
 Ga naar http://localhost:5173 in je browser
 De applicatie laadt standaard met een overzicht van alle verhalen
 ```
+## 📝 Licentie
+Dit project is gelicenseerd onder de MIT License - zie het LICENSE bestand voor details.
+
 ## 📌 Andere iteraties:
 Volgende iteraties van het project vind je hier:
 ### Iteratie 2:
